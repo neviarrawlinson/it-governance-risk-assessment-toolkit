@@ -77,3 +77,15 @@ No prior tools or platforms required. Files are provided in Excel format and mar
 
 ## Folder Structure
 
+it-governance-risk-assessment-toolkit/ ├── templates/ │ ├── Risk_Assessment_Template.xlsx │ └── Control_Checklist_Template.xlsx ├── dashboard/ │ └── sample_dashboard.png ├── docs/ │ ├── usage_guide.md │ └── example_use_case.md ├── LICENSE └── README.md
+
+
+## License
+
+This project is licensed under the [MIT License](LICENSE). Feel free to fork, modify, and use it in your own environment.
+
+## About the Creator
+
+Created by [Neviar Rawlinson](https://github.com/neviarrawlinson), a GRC analyst passionate about simplifying security and compliance through clear process and strong governance.
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/neviarrawlinson) or explore more projects on [Dev.to](https://dev.to/neviarrawlinson).
