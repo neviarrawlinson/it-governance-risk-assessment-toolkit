@@ -6,6 +6,18 @@ It’s designed to be easy to understand, flexible enough for different use case
 
 ---
 
+## Table of Contents
+
+- [What's Included](#whats-included)
+- [Use This Toolkit To](#use-this-toolkit-to)
+- [Who This Is For](#who-this-is-for)
+- [How to Use](#how-to-use)
+- [Folder Structure](#folder-structure)
+- [License](#license)
+- [About the Creator](#about-the-creator)
+
+---
+
 ## What's Included
 
 ### 1. Risk Assessment Template
